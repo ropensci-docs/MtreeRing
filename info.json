@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "560caeb5b5d03a0e09cef245eca85643c4ced2e0",
+    "author": "Jingning Shi <snow940220@bjfu.edu.cn>",
+    "time": "2021-04-30 06:53:08",
+    "files": 1,
+    "merge": false,
+    "message": "Update app.R\n"
+  },
+  "repo": "https://github.com/ropensci/MtreeRing",
+  "pkg": "MtreeRing"
+}
