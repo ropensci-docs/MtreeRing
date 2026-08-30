@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "c3f44754fffe2e696522a40a2b71a0013cb41f1d",
+    "author": "Maëlle Salmon <maelle.salmon@yahoo.se>",
+    "time": "2024-07-17T15:02:06Z",
+    "files": 1,
+    "merge": true,
+    "message": "Merge pull request #16 from ropensci/maelle-patch-2\n\ndocs: add search to pkgdown website"
+  },
+  "repo": "https://github.com/ropensci/MtreeRing",
+  "pkg": "MtreeRing",
+  "time": "2026-08-30T08:10:20Z"
+}
